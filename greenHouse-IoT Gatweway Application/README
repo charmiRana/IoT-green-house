@@ -1,1 +1,4 @@
-This is a placeholder package for classes specific to the lab module named as the parent package.
+Iot Gatway application connects with Ubidots cloud and update values of sensor on the cloud. As per the selected conditions it will fetchthe details from ubidots cloud.
+And send it to the python device application. 
+
+I have used ubidots api and for that you will need .pem file, that is the certificate for ssl connection with ubidots.
